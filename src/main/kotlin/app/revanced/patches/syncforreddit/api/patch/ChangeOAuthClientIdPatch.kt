@@ -23,7 +23,8 @@ import java.util.*
 @Compatibility(
     [
         Package("com.laurencedawson.reddit_sync"),
-        Package("com.laurencedawson.reddit_sync.pro")
+        Package("com.laurencedawson.reddit_sync.pro"),
+        Package("com.laurencedawson.reddit_sync.dev")
     ]
 )
 @Version("0.0.1")
